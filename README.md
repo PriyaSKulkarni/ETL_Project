@@ -1,4 +1,4 @@
-# ETL_Project
+# ETL Toll Data Pipeline
 
 ETL Toll Data Pipeline
 This project is an ETL (Extract, Transform, Load) pipeline for toll data using Apache Airflow. The pipeline is defined in Python, utilizing Airflow's DAG (Directed Acyclic Graph) capabilities to schedule and execute tasks. The ETL process extracts data from multiple sources, transforms it, and loads the processed data into a staging directory.
