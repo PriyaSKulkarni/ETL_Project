@@ -8,7 +8,7 @@ dags/ETL_toll_data.py: The main Airflow DAG definition file.
 dags/Extract_Transform_data.sh: The Bash script that performs the extraction, transformation, and loading of data.
 /path/to/staging/directory/: The directory where the transformed data is saved.
 
-Prerequisites
+Prerequisites     
 Apache Airflow installed and configured.
 Necessary permissions to read from and write to the specified directories.
 
