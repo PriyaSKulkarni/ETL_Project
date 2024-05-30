@@ -11,7 +11,7 @@ dags/Extract_Transform_data.sh: The Bash script that performs the extraction, tr
 Prerequisites     
 Apache Airflow installed and configured.
 Necessary permissions to read from and write to the specified directories.
-
+   
 Installation and Setup
 Install Apache Airflow:
 Follow the official Airflow installation guide to set up Airflow in your environment.
