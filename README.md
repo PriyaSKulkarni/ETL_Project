@@ -9,6 +9,8 @@ dags/Extract_Transform_data.sh: The Bash script that performs the extraction, tr
 /path/to/staging/directory/: The directory where the transformed data is saved.
 
 Prerequisites     
+
+
 Apache Airflow installed and configured.
 Necessary permissions to read from and write to the specified directories.
    
