@@ -5,8 +5,6 @@ This project is an ETL (Extract, Transform, Load) pipeline for toll data using A
 
 Project Structure    
 
-
-
 dags/ETL_toll_data.py: The main Airflow DAG definition file.    
 dags/Extract_Transform_data.sh: The Bash script that performs the extraction, transformation, and loading of data.
 /path/to/staging/directory/: The directory where the transformed data is saved.
